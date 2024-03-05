@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Generics_Delimitado/Generics_Delimitado.iml" filepath="$PROJECT_DIR$/Generics_Delimitado/Generics_Delimitado.iml" />
       <module fileurl="file://$PROJECT_DIR$/Generics_Set_Map.iml" filepath="$PROJECT_DIR$/Generics_Set_Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tipos_Curingas/Tipos_Curingas.iml" filepath="$PROJECT_DIR$/Tipos_Curingas/Tipos_Curingas.iml" />
     </modules>
   </component>
 </project>
