@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exercicio_resolvido/Exercicio_resolvido.iml" filepath="$PROJECT_DIR$/Exercicio_resolvido/Exercicio_resolvido.iml" />
       <module fileurl="file://$PROJECT_DIR$/Generics_Delimitado/Generics_Delimitado.iml" filepath="$PROJECT_DIR$/Generics_Delimitado/Generics_Delimitado.iml" />
       <module fileurl="file://$PROJECT_DIR$/Generics_Set_Map.iml" filepath="$PROJECT_DIR$/Generics_Set_Map.iml" />
       <module fileurl="file://$PROJECT_DIR$/HashCode e Equals/HashCode e Equals.iml" filepath="$PROJECT_DIR$/HashCode e Equals/HashCode e Equals.iml" />
