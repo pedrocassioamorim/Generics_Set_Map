@@ -1,8 +1,9 @@
 package Demo_2.entities;
 
+import java.util.Comparator;
 import java.util.Objects;
 
-public class Product {
+public class Product implements Comparable<Product> {
     private String name;
     private Double price;
 
@@ -42,5 +43,10 @@ public class Product {
     @Override
     public String toString() {
         return "[ " + name +", price=" + price + ']';
+    }
+
+    @Override
+    public int compareTo(Product o) {
+        return name.toUpperCase().compareTo(o.getName().toUpperCase());
     }
 }
